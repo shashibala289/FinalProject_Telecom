@@ -1,5 +1,5 @@
 ##Project: ANA625
-##Author: Kornkanok Somkul, Shashi Bala
+##Author: Shashi Bala
 
 #import file
 Telcom <- read.csv("/Users/jill_jewelry/Documents/MSDA/ANA625/Dataset/WA_Fn-UseC_-Telco-Customer-Churn.csv")
